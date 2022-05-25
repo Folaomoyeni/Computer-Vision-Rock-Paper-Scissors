@@ -15,6 +15,8 @@ I've trained the machine, removing and adding images - though I am tempted to co
 Before continuing with the milestone, I had the opportunity to listen to a presentation explaining the links between biological networks and artificial networks.
 Next, I set up the environment by getting familiar with the terminal and downloaded the relevant libraries. It was a battle trying to do it on windows but much more straight forward on the mac. I question wether it's because i have a mentality that it would be easier on iOS(?). 
 
+There were a lot of commands to run in the terminal that I honestly didn't understand initially.
+
 
 
 # Milestone 3
