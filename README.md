@@ -8,7 +8,15 @@ I also decided to take a chance yesterday and have confidence in sharing my firs
 
 I am still trying to get my head around GitHub though...
 
+I've trained the machine, removing and adding images - though I am tempted to continue over time just to increase the accuracy as scissors is difficult. I considered also changing the hand symbols or using the actual items to add interaction with the environment.
+
 # Milestone 2
+
+Before continuing with the milestone, I had the opportunity to listen to a presentation explaining the links between biological networks and artificial networks.
+Next, I set up the environment by getting familiar with the terminal and downloaded the relevant libraries. It was a battle trying to do it on windows but much more straight forward on the mac. I question wether it's because i have a mentality that it would be easier on iOS(?). 
+
+
+
 # Milestone 3
 # Milestone 4
 # Conclusions
